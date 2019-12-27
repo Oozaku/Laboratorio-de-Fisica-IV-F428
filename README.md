@@ -6,3 +6,8 @@ Cálculos para a confecção dos relatórios utilizando:
 - **Numpy**
 - **Pandas**
 - **Matplotlib.pyplot**
+
+Dúvidas em como utilizar Python nos laboratórios de física, como 
+plotar gráficos e calcular propagações de incertezas?
+Dê uma olhada na minha página:
+http://www.students.ic.unicamp.br/~ra207267/DicasLabFisica/DicasLabFisica.htm
